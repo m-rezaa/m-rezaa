@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A traffic management system using AI and Improving my problem solving and coding skills.<br>👯 I’m looking to collaborate on Open-source beginner-friendly projects and AI or web-based applications.<br>🤝 I’m looking for help with Deploying full stack projects and Advanced AI/ML concepts.<br>🌱 I’m currently learning Advanced AI Concepts and Full stack projects deployments using AI.<br>💬 Ask me about Java programming, Digital Logic Design, Web Development, UI/UX Designing.<br>
+🔭 I’m currently working on "TRAFFICMIND AI" (A traffic management system using AI) and Improving my problem solving and coding skills.<br>👯 I’m looking to collaborate on Open-source beginner-friendly projects and AI or web-based applications.<br>🤝 I’m looking for help with Deploying full stack projects and Advanced AI/ML concepts.<br>🌱 I’m currently learning Advanced AI Concepts and Full stack projects deployments using AI.<br>💬 Ask me about Java programming, Digital Logic Design, Web Development, UI/UX Designing.<br>
 
 
 ## 🌐 Socials:
